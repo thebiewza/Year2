@@ -25,7 +25,7 @@ namespace HW1__Remaster
             Console.WriteLine("size : {0}", this.size);
             Console.WriteLine("color : {0}", this.color);
             Console.WriteLine("image : {0}", this.image);
-            Console.WriteLine("image : {0}", this.price);
+            Console.WriteLine("price : {0}", this.price);
             Console.WriteLine("-----------------------------------");
 
         }
